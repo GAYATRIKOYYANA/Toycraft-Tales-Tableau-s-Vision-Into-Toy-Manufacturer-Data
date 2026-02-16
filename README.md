@@ -1,1 +1,2 @@
 Toycraft Tales – Tableau’s Vision Into Toy Manufacturer Data is a data visualization project that analyzes toy manufacturer sales data using Tableau. The project focuses on identifying sales trends, top-performing products, manufacturer performance, and regional insights through interactive dashboards. By transforming raw data into meaningful visual stories, this project helps in understanding business performance and supports better data-driven decision-making.
+   Demo link::::https://drive.google.com/file/d/1xbEpwBOwNIkzXdtobyBI7nEpBc7AghoR/view?usp=sharing
